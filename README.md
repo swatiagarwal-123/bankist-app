@@ -1,2 +1,7 @@
-# bankist-app
-This is a basic web application that lets users to perform transactions on their accounts.
+# Bankist Application
+
+This is a very basic web application that lets users to perform trasactions on their accounts.
+
+## Preview:
+
+![Application Preview Here](./preview.png)
